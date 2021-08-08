@@ -1,4 +1,4 @@
-# kafka-spark-cassandra
+# A Guide to Apache Spark installation and setup
 
 Everything you need to know about Apache Kafka, Apache Spark and Apache Cassandra.
 
